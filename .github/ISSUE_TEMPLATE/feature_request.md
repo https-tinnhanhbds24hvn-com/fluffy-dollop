@@ -1,9 +1,10 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: Bất động sản
+labels: Bất động sản, bug, documentation, duplicate, enhancement, good first issue,
+  help wanted, invalid, question, wontfix
+assignees: vankhanhbds
 
 ---
 
